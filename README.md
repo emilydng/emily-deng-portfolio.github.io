@@ -2,7 +2,7 @@
 
 ## LABS
 
-  + ### [Lab 1](https://github.com/killua-boop/cit281-lab1/blob/d83a656a1975b5e4a87c8a8fd35f56618ecb55b8/index.md)
+  + ### [Lab 1](https://killua-boop.github.io/cit281-lab1/)
   
   + ### [Lab 2](https://github.com/killua-boop/cit281-lab2/blob/eff128420e72d46e0386cc3141a75d70ab62e3e4/index.md)
   
