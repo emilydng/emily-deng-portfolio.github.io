@@ -1,9 +1,8 @@
 # CIT 281 Lab and Project Portfolio
 
-### [Lab 1](https://github.com/killua-boop/cit281-lab1/blob/8f5a0d56771ef2804f545c16c44898284eb9856c/index.md)
+### [Lab 1](https://github.com/killua-boop/cit281-lab1/blob/6269c1454483838fd39617ae752a3878cd714a5a/index.md)
   
-### [Lab 2](https://github.com/killua-boop/killua-boop.github.io/blob/6d7a7b0ee7bc7eca15c02a33e4c5dcab77e040a3/lab-02.zip)
-  - Use CLI commands for directory, file manipulation, and git commands
+### [Lab 2](https://github.com/killua-boop/cit281-lab2/blob/a5649964e041c2fef9c9bfab678b63c5ffec5007/index.md)
   
 ### [Project 1](https://github.com/killua-boop/killua-boop.github.io/blob/6d7a7b0ee7bc7eca15c02a33e4c5dcab77e040a3/p1.zip)
   - Gain experience with CLI commands and VSCode
