@@ -38,4 +38,6 @@
 
 <img src="https://user-images.githubusercontent.com/84113983/120721347-7f920280-c482-11eb-81ea-b3d7ba5a3a63.JPG" width="199" height="199" />
 
-*minecraft sunset*
+*minecraft sunset* {
+  font-size: 20;
+}
