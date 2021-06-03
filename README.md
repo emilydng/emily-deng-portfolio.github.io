@@ -14,77 +14,21 @@
   
 ### [Lab 5](https://github.com/killua-boop/cit281-lab5/blob/0c0ec2a3b90994d71e5facab2052323bb4a5090e/index.md)
   
-### [Project 3](https://github.com/killua-boop/killua-boop.github.io/blob/6d7a7b0ee7bc7eca15c02a33e4c5dcab77e040a3/p3.zip)
-  - Gain experience interpreting functional descriptions and specifications to complete an assignment
-  - Gain experience breaking a project into manageable components
-  - Gain experience writing and executing non-web server Node.js JavaScript code using VSCode
-  - Practice creating and using code modules
-  - Practice refactoring using modern JavaScript syntax
-  - Gain experience writing and executing web server Node.js JavaScript code using VSCode
-  - Gain experience using Fastify with the GET verb, routes, and query parameters
-  - Gain experience loading a file and using as a web page
+### [Project 3](https://github.com/killua-boop/cit281-p3/blob/80fcb7efc32f465949e9390a83af7a083d0188f2/index.md)
   
-### [Lab 6](https://github.com/killua-boop/killua-boop.github.io/blob/6d7a7b0ee7bc7eca15c02a33e4c5dcab77e040a3/lab-06.zip)
-  - Join GitHub and work through Introduction to GitHub course
-  - Create lab file
-  - Classes overview
-  - Create and test Book class
-  - Create and test Library class
-  - Add at least two more books to the library
-  - Add ISBN and a delete book method
+### [Lab 6](https://github.com/killua-boop/cit281-lab6/blob/923a2be37e9fb6817cd8d2eb5022aafd8b6c4ebb/index.md)
   
-### [Project 4](https://github.com/killua-boop/killua-boop.github.io/blob/6d7a7b0ee7bc7eca15c02a33e4c5dcab77e040a3/p4.zip)
-  - Gain experience interpreting functional descriptions and specifications to complete an assignment
-  - Gain experience breaking a project into manageable components
-  - Gain experience writing and executing non-web server Node.js JavaScript code using VSCode
-  - Practice creating and using code modules
-  - Practice using modern JavaScript syntax
-  - Gain experience writing and executing Node.js REST API server using VSCode
-  - Gain experience using Fastify with the GET verb, routes, and route parameters
-  - Gain experience working with static data
-  - Gain experience testing code module without using a web server
-  - Gain experience using Postman to test web server routes
-  - Gain experience working with JSON
+### [Project 4](https://github.com/killua-boop/cit281-p4/blob/a6aff6f53d7211b583cd20c6f14bd6d877cda022/index.md)
   
-### [Lab 7](https://github.com/killua-boop/killua-boop.github.io/blob/6d7a7b0ee7bc7eca15c02a33e4c5dcab77e040a3/lab-07.zip)
-  - Create your own GitHub organization for the CIT Minor
-  - Create your first GitHub repository
-  - Clone your GitHub repository to your local system
-  - Create lab JavaScript file, and initialize folder as a Node.js folder
-  - Update and commit lab JavaScript file to practice with error handling
-  - Push your changes to GitHub
+### [Lab 7](https://github.com/killua-boop/cit281-lab7/blob/29efbcf7608095c96221885d53b577a0605014a2/index.md)
   
-### [Project 5 (extra credit)](https://github.com/killua-boop/killua-boop.github.io/blob/6d7a7b0ee7bc7eca15c02a33e4c5dcab77e040a3/p5.zip)
-  - Gain experience working with classes, including class constructors and methods
-  - Gain experience interpreting existing code to design a new class, including constructor and methods
-  - Gain more experience working with code modules
-  - Gain experience executing and debugging Node.js code using VSCode, including module breakpoints
-  - Gain more experience working with Array map() and forEach() methods
-  - Gain experience working with the concept of a gaming loop
-  - Gain more experience working with objects and arrays
-  
-### [Lab 8](https://github.com/killua-boop/killua-boop.github.io/blob/6d7a7b0ee7bc7eca15c02a33e4c5dcab77e040a3/lab-08.zip)
-  - Create lab file and initialize Node.js folder
-  - Install node-fetch package
-  - Add fastify starter code
-  - Add fastify and node-fetch require statements
-  - Fetch JSONPlaceholder data
+### [Project 5 (extra credit)](https://github.com/killua-boop/cit281-p5/blob/c9d3871dc1e4aeb5abe91174e691dcea52a67370/index.md)
 
-### [Project 6](https://github.com/killua-boop/killua-boop.github.io/blob/6d7a7b0ee7bc7eca15c02a33e4c5dcab77e040a3/p6.zip)
-  - Gain experience creating and working classes with inheritance
-  - Gain more experience creating and working with classes
-  - Gain more experience debugging code
-  - Gain more experience using a generic block of code to process data
-  - Gain more experience interpreting functional descriptions and specifications to complete an assignment
-  - Gain more experience writing and executing non-web server Node.js JavaScript code using VSCode
-  - Practice using modern JavaScript syntax
-  - Gain more experience working with static data
+### [Lab 8](https://github.com/killua-boop/cit281-lab8/blob/6d7bdb57a4ca956273d4a9d63a22832c0fe0d58d/index.md)
+
+### [Project 6](https://github.com/killua-boop/cit281-p6/blob/2a1995023e9f3a17321f2d6644b3f22a6bbddcd1/index.md)
   
-### [Lab 9](https://github.com/killua-boop/killua-boop.github.io/blob/6d7a7b0ee7bc7eca15c02a33e4c5dcab77e040a3/lab-09.zip)
-  - Create Learning Lab course/repo within your GitHub account
-  - Practice exiting and returning to the course from course repo
-  - Work through course
-  - Download completed course repo as deliverable
+### [Lab 9](https://github.com/killua-boop/cit281-lab9/blob/7ef4f162d5b9952d47acff741f1ae6d82237fbdb/index.md)
   
 ### Project 7
   - Gain more experience working with GitHub repos
