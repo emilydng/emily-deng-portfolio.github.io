@@ -1,6 +1,6 @@
 # CIT 281 Lab and Project Portfolio
 
-### [Lab 1](https://github.com/killua-boop/cit281-lab1/blob/41dacb392e77f6cdd2f10487a9302fb208055f45/index.md)
+### [Lab 1](https://github.com/killua-boop/cit281-lab1/blob/8f5a0d56771ef2804f545c16c44898284eb9856c/index.md)
   
 ### [Lab 2](https://github.com/killua-boop/killua-boop.github.io/blob/6d7a7b0ee7bc7eca15c02a33e4c5dcab77e040a3/lab-02.zip)
   - Use CLI commands for directory, file manipulation, and git commands
