@@ -4,9 +4,7 @@
   
 ### [Lab 2](https://github.com/killua-boop/cit281-lab2/blob/a5649964e041c2fef9c9bfab678b63c5ffec5007/index.md)
   
-### [Project 1](https://github.com/killua-boop/killua-boop.github.io/blob/6d7a7b0ee7bc7eca15c02a33e4c5dcab77e040a3/p1.zip)
-  - Gain experience with CLI commands and VSCode
-  - Writing and executing non-web server Node.js JavaScript code
+### [Project 1](https://github.com/killua-boop/cit281-p1/blob/3eadaa1bd6e2fd622045813dc4ae0936d9b35985/index.md)
   
 ### [Lab 3](https://github.com/killua-boop/killua-boop.github.io/blob/6d7a7b0ee7bc7eca15c02a33e4c5dcab77e040a3/lab-03.zip)
   - Practice refactoring JavaScript code to use more modern syntax
