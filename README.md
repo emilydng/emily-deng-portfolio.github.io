@@ -34,7 +34,7 @@
 
   + ### [Project 6](https://github.com/killua-boop/cit281-p6/blob/2a1995023e9f3a17321f2d6644b3f22a6bbddcd1/index.md)
  
-  + ### [Project 7](https://github.com/killua-boop/cit281-p7/blob/0856ce5036e395e737de82e1f4b15a880548d912/index.md)
+  + ### [Project 7](https://github.com/killua-boop/cit281-p7/blob/df958ad4999199a09ca6aa0e73f6cdf42d2bc959/index.md)
 
 
 ![Minecraft Sunset ](https://github.com/killua-boop/killua-boop.github.io/blob/e6d5e6326959813c062c3fa2ea9f215443189f45/IMG_5264.JPG)
