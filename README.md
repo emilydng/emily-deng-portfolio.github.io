@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/killua-boop/killua-boop.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### [Lab 1](
+### [Lab 1](lab-01.zip)
   - Practice software tools, terminal, keyboard shortcuts
   - Create first Node.js server-side JavaScript file
   
