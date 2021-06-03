@@ -125,6 +125,4 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   - Create an initial CIT Minor portfolio for your labs and projects
 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+![Minecraft Sunset ](https://github.com/killua-boop/killua-boop.github.io/blob/e6d5e6326959813c062c3fa2ea9f215443189f45/IMG_5264.JPG)
