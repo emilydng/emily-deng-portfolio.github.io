@@ -1,20 +1,12 @@
 # CIT 281 Lab and Project Portfolio
 
-### [Lab 1](https://github.com/killua-boop/cit281-lab1/blob/6269c1454483838fd39617ae752a3878cd714a5a/index.md)
+### [Lab 1](https://github.com/killua-boop/cit281-lab1/blob/2e92910b2e3868f6e6a9948c961f30ed184ec96e/index.md)
   
-### [Lab 2](https://github.com/killua-boop/cit281-lab2/blob/a5649964e041c2fef9c9bfab678b63c5ffec5007/index.md)
+### [Lab 2](https://github.com/killua-boop/cit281-lab2/blob/430d36d639112cef3999f861963d2e044b961de1/index.md)
   
-### [Project 1](https://github.com/killua-boop/cit281-p1/blob/3eadaa1bd6e2fd622045813dc4ae0936d9b35985/index.md)
+### [Project 1](https://github.com/killua-boop/cit281-p1/blob/48eb9484391767d1039bf26f394414f3dbb76fdc/index.md)
   
-### [Lab 3](https://github.com/killua-boop/killua-boop.github.io/blob/6d7a7b0ee7bc7eca15c02a33e4c5dcab77e040a3/lab-03.zip)
-  - Practice refactoring JavaScript code to use more modern syntax
-  - Practice destructuring an object
-  - Practice converting normal functions into arrow function expressions
-  - Examine using for..in  syntax with objects
-  - Practice using for..of syntax with arrays
-  - Practice creating a Node.js compatible code module using module.exports
-  - Practice importing a Node.js compatible code module using require
-  - Examine code using the spread operator
+### [Lab 3](https://github.com/killua-boop/cit281-lab3/blob/ced2318dc7a2d0bdc6ada631c9c64bb329f8f395/index.md)
   
 ### [Project 2](https://github.com/killua-boop/killua-boop.github.io/blob/6d7a7b0ee7bc7eca15c02a33e4c5dcab77e040a3/p2.zip)
   - Gain experience using git via your CLI and Visual Studio Code (VSCode) Source Control
