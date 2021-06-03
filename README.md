@@ -36,4 +36,4 @@
  
   + ### [Project 7](https://github.com/killua-boop/cit281-p7/blob/df958ad4999199a09ca6aa0e73f6cdf42d2bc959/index.md)
 
-<img src="https://user-images.githubusercontent.com/84113983/120721347-7f920280-c482-11eb-81ea-b3d7ba5a3a63.JPG" width="299" height="299" />
+<img src="https://user-images.githubusercontent.com/84113983/120721347-7f920280-c482-11eb-81ea-b3d7ba5a3a63.JPG" width="199" height="199" />
