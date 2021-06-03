@@ -8,27 +8,11 @@
   
 ### [Lab 3](https://github.com/killua-boop/cit281-lab3/blob/ced2318dc7a2d0bdc6ada631c9c64bb329f8f395/index.md)
   
-### [Project 2](https://github.com/killua-boop/killua-boop.github.io/blob/6d7a7b0ee7bc7eca15c02a33e4c5dcab77e040a3/p2.zip)
-  - Gain experience using git via your CLI and Visual Studio Code (VSCode) Source Control
-  - Gain experience writing and executing non-web server Node.js JavaScript code
-  - Practice refactoring JavaScript code
+### [Project 2](https://github.com/killua-boop/cit281-p2/blob/a1350ce42f33716fba6e387bcaff945aebfbf6aa/index.md)
   
-### [Lab 4](https://github.com/killua-boop/killua-boop.github.io/blob/6d7a7b0ee7bc7eca15c02a33e4c5dcab77e040a3/lab-04.zip)
-  - Create initial Fastify Node.js web server
-  - Initialize as a Node.js project folder using Node Package Manager (npm)
-  - Add Fastify to project using npm, and test using Visual Studio Code (VSCode)
-  - Add git repo, exclude node_modules folder from git, make commits
-  - Fix MIME error, test, and commit
-  - Add a second route with query parameters, test, and commit
+### [Lab 4](https://github.com/killua-boop/cit281-lab4/blob/948a14164d268c65434d30f01abbb7ffb53fa692/index.md)
   
-### [Lab 5](https://github.com/killua-boop/killua-boop.github.io/blob/6d7a7b0ee7bc7eca15c02a33e4c5dcab77e040a3/lab-05.zip)
-  - Download and install Postman
-  - Create a CIT 281 collection and folders
-  - Create a Node.js and fastify server application with GET and respond with JSON
-  - Add array of students object
-  - Use Postman to test server GET routes
-  - Add POST handling to server application and respond with JSON
-  - Use Postman and POST request
+### [Lab 5](https://github.com/killua-boop/cit281-lab5/blob/0c0ec2a3b90994d71e5facab2052323bb4a5090e/index.md)
   
 ### [Project 3](https://github.com/killua-boop/killua-boop.github.io/blob/6d7a7b0ee7bc7eca15c02a33e4c5dcab77e040a3/p3.zip)
   - Gain experience interpreting functional descriptions and specifications to complete an assignment
